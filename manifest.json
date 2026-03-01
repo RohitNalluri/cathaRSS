@@ -1,0 +1,10 @@
+{
+  "id": "read-it-all",
+  "name": "Read It All",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Capture RSS feeds, web clippings, and Substack articles directly into your vault with AI-powered summaries and weekly digests.",
+  "author": "bitpoet",
+  "authorUrl": "https://rohitnalluri.com",
+  "isDesktopOnly": true
+}
